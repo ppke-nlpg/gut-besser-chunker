@@ -1,0 +1,3 @@
+[submodule "taggers/HunTag3/HunTag3"]
+	path = taggers/HunTag3/HunTag3
+	url = https://github.com/ppke-nlpg/HunTag3.git
