@@ -8,11 +8,13 @@ The program used in the paper 'Gut, Besser, Chunker – Selecting the best model
 - TnT installed and in path
 - All git submodules inited and updated (./postClone.sh)
 - Python3, JRE 1.8, NLTK 3 installed 
+- PurePOS compiled and the path is set in IOB_tagger_purepos.sh
 
 ## Usage
 
 - Run ./start.sh and wait...
 - See .sh and and .py files for documentation...
+- PurePOS as an IOB tagger can be invoked separately from IOB_tagger_purepos.sh (You must set PATHTOPUREPOS variable first!). 
 
 ## Warning
 
